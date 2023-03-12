@@ -1,6 +1,6 @@
 # live Link
 
-https://chat-436ae.web.app/login
+https://chat-436ae.web.app
 
 # Getting Started with Create React App
 
